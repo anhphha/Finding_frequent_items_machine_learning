@@ -5,5 +5,3 @@ Arcada UAS | Project: finding frequent items (machine learning) | Tools: Python 
 - Tested different parameters, such as hash tables, thresholds, tuple sizes
 - Clustered for frequent candidates using the 1-NN criteria
 
-To access my project work, please follow these links:
-Github: https://github.com/anhphha/Finding_frequent_items_machine_learning
